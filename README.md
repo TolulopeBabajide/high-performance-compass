@@ -1,4 +1,4 @@
-![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)
 
 
 🧭 High-Performance Compass
@@ -37,8 +37,6 @@ npm install
 npm run dev
 Then open http://localhost:5173 in your browser.
 
-📜 License
-This project is licensed under the MIT License.
 
 🙌 Acknowledgments
 Inspired by the mental models and strategies of top performers across fields — especially ideas from James Clear, Naval Ravikant, Simon Sinek, and Ray Dalio.
@@ -55,3 +53,6 @@ Creating leverage
 Playing infinite, lifelong games
 
 Small daily reflections → Massive long-term momentum.
+
+## 📜 License
+This project is licensed under the [Creative Commons Attribution-NonCommercial 4.0 License](LICENSE).
