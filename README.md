@@ -1,12 +1,57 @@
-# React + Vite
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
+🧭 High-Performance Compass
+A simple web app to help you journal daily with a focus on energy, systems, reputation, leverage, and infinite games — inspired by practices of high performers.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+✨ Features
+Full Mode: 5 powerful daily reflection prompts
 
-## Expanding the ESLint configuration
+Lightning Mode: 2 quick reflection prompts for busy days
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Save Entries: Your answers are stored in your browser (local storage)
+
+View History: See your past journal entries by date
+
+Mobile Friendly: Perfect for daily use on your phone
+
+🚀 Live Demo
+View the App
+
+🛠 Built With
+React
+
+TailwindCSS
+
+LocalStorage API (for persistence)
+
+Vite (for fast builds)
+
+📦 Installation
+bash
+Copy
+Edit
+git clone https://github.com/TolulopeBabajide/high-performance-compass.git
+cd high-performance-compass
+npm install
+npm run dev
+Then open http://localhost:5173 in your browser.
+
+📜 License
+This project is licensed under the MIT License.
+
+🙌 Acknowledgments
+Inspired by the mental models and strategies of top performers across fields — especially ideas from James Clear, Naval Ravikant, Simon Sinek, and Ray Dalio.
+
+🧠 Why This Matters
+The High-Performance Compass helps you shift focus from "working harder" to:
+
+Building compounding systems
+
+Managing energy wisely
+
+Creating leverage
+
+Playing infinite, lifelong games
+
+Small daily reflections → Massive long-term momentum.
