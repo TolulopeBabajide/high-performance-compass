@@ -37,9 +37,6 @@ npm install
 npm run dev
 Then open http://localhost:5173 in your browser.
 
-## 📜 License
-This project is licensed under the [Creative Commons Attribution-NonCommercial 4.0 License](LICENSE).
-
 
 🙌 Acknowledgments
 Inspired by the mental models and strategies of top performers across fields — especially ideas from James Clear, Naval Ravikant, Simon Sinek, and Ray Dalio.
@@ -56,3 +53,6 @@ Creating leverage
 Playing infinite, lifelong games
 
 Small daily reflections → Massive long-term momentum.
+
+## 📜 License
+This project is licensed under the [Creative Commons Attribution-NonCommercial 4.0 License](LICENSE).
