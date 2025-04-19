@@ -1,4 +1,4 @@
-import HighPerformanceCompass from './HighPerformanceCompass';
+import HighPerformanceCompass from './pages/HighPerformanceCompass';
 
 function App() {
   return (
